@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service Defination for Sheduling Agreement Update'
+define service ZSHEDULING_AGREEMENT_UPDATE {
+  expose I_Plant                     as Plant_F4;
+  expose ZSHEDULING_AGREEMENT_UPDATE as ShedulingAgreementUpdate;
+  expose ZSHEDULING_AGREEMENT_F4     as ShedulingAgreement_F4;
+}

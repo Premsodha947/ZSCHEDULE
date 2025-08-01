@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Scheduling Agreement Update",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zshedulingagreementupdate"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_B83524C908118356967050E8E81D3CFABD639FEC_TM",
+    "semanticObject": "ZSHEDULING_AGREEMENT_UPDATE",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_B83524C908118356967050E8E81D3CFABD639FEC_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Scheduling Agreement Update",
+        "subtitle": "ZMM"
+      }
+    }
+  ]
+}
